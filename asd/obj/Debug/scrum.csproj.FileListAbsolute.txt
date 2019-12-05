@@ -1,0 +1,196 @@
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\asd.exe.config
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\asd.exe
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\asd.pdb
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\MetroFramework.Design.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\MetroFramework.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\scrum.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\asd.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\scrum.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\asd.exe.licenses
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\scrum.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\asd.exe
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\asd.pdb
+C:\Users\SERBAY\Desktop\Scrum\asd\obj\Debug\asd.Form1.resources
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\asd.exe.config
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\asd.exe
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\asd.pdb
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\MetroFramework.Design.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\MetroFramework.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\scrum.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\asd.Form1.resources
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\asd.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\scrum.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\asd.exe.licenses
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\scrum.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\asd.exe
+C:\Users\SERBAY\Desktop\Scrum - Kopya (2)\asd\obj\Debug\asd.pdb
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\asd.exe.config
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\asd.exe
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\asd.pdb
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\MetroFramework.Design.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\MetroFramework.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\scrum.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\asd.Form1.resources
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\asd.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\scrum.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\asd.exe.licenses
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\scrum.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\asd.exe
+C:\Users\SERBAY\Desktop\Scrum - Kopya\asd\obj\Debug\asd.pdb
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\asd.exe.config
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\asd.exe
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\asd.pdb
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\MetroFramework.Design.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\MetroFramework.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\scrum.csprojAssemblyReference.cache
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\asd.Form1.resources
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\asd.Properties.Resources.resources
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\scrum.csproj.GenerateResource.cache
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\asd.exe.licenses
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\scrum.csproj.CoreCompileInputs.cache
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\scrum.csproj.CopyComplete
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\asd.exe
+C:\Users\serba\Desktop\Projeler\Scrum\asd\obj\Debug\asd.pdb
